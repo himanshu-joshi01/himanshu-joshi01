@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/himanshujoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/himanshujoshi" height="30" width="40" /></a>
+<a href="https://dev.to/himanshujoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/himanshujoshi" height="30" width="40" /></a>
 <a href="https://twitter.com/joshi_himanshu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshi_himanshu_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/himanshu-joshi01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshu-joshi01/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/himanshujoshi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/himanshujoshi01" height="30" width="40" /></a>
