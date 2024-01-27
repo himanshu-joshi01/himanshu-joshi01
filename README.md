@@ -1,4 +1,4 @@
-[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/411/249/desktop-wallpaper-be-your-awesome-mern-stack-developer-by-nishant08111-mern-stack.jpg)]
+![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/411/249/desktop-wallpaper-be-your-awesome-mern-stack-developer-by-nishant08111-mern-stack.jpg)
 <h1 align="center">Hi 👋, I'm Himanshu Joshi</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
