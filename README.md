@@ -1,5 +1,11 @@
 # 💫 About Me:
-            Hi 👋, I'm Himanshu Joshi<br>    A passionate MERN Stack Developer<br>👯 I’m looking to collaborate on Mern Projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning NextJs and TypeScript<br>💬 Ask me about MERN And JavaScript<br>⚡ Fun fact
+Hi 👋, I'm Himanshu Joshi<br>   
+A passionate MERN Stack Developer<br> 
+👯 I’m looking to collaborate on Mern Projects<br>
+🤝 I’m looking for help with <br>
+🌱 I’m currently learning NextJs and TypeScript<br>
+💬 Ask me about MERN And JavaScript<br>
+⚡ Fun fact
 
 
 ## 🌐 Socials:
