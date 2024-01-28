@@ -1,4 +1,4 @@
-# Hi 👋, I'm Himanshu Joshi<br>   
+                                                                              # Hi 👋, I'm Himanshu Joshi<br>   
 # 💫 A passionate MERN Stack Developer<br>
  
 👯 I’m looking to collaborate on Mern Projects<br>
