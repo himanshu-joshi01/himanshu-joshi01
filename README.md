@@ -34,10 +34,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=himanshu-joshi01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
-### 🔝 Top Contributed Repo
+
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=himanshu-joshi01&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 
 
